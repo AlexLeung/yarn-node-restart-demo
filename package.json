@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "demo": "tsc -b && node ./dist/index.js"
+    },
+    "devDependencies": {
+        "@yarnpkg/pnpify": "^2.0.0-rc.21",
+        "typescript": "^3.8.3"
+    }
+}
